@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/indograssabadi/static/css/main.b6c679a9.chunk.css",
+    "main.js": "/indograssabadi/static/js/main.477c3b09.chunk.js",
+    "main.js.map": "/indograssabadi/static/js/main.477c3b09.chunk.js.map",
+    "runtime-main.js": "/indograssabadi/static/js/runtime-main.df0bbdbf.js",
+    "runtime-main.js.map": "/indograssabadi/static/js/runtime-main.df0bbdbf.js.map",
+    "static/js/2.1a58fb73.chunk.js": "/indograssabadi/static/js/2.1a58fb73.chunk.js",
+    "static/js/2.1a58fb73.chunk.js.map": "/indograssabadi/static/js/2.1a58fb73.chunk.js.map",
+    "index.html": "/indograssabadi/index.html",
+    "precache-manifest.28323bd2f03b5a7d28b5e7390fe26eb2.js": "/indograssabadi/precache-manifest.28323bd2f03b5a7d28b5e7390fe26eb2.js",
+    "service-worker.js": "/indograssabadi/service-worker.js",
+    "static/css/main.b6c679a9.chunk.css.map": "/indograssabadi/static/css/main.b6c679a9.chunk.css.map",
+    "static/js/2.1a58fb73.chunk.js.LICENSE.txt": "/indograssabadi/static/js/2.1a58fb73.chunk.js.LICENSE.txt",
+    "static/media/badm.png": "/indograssabadi/static/media/badm.2a095324.png",
+    "static/media/baseball.png": "/indograssabadi/static/media/baseball.5ffe68db.png",
+    "static/media/futsal.png": "/indograssabadi/static/media/futsal.57b4d515.png",
+    "static/media/golf.png": "/indograssabadi/static/media/golf.6d52e55d.png",
+    "static/media/land.jpg": "/indograssabadi/static/media/land.92933904.jpg",
+    "static/media/minisoc.png": "/indograssabadi/static/media/minisoc.d0d72194.png",
+    "static/media/running.png": "/indograssabadi/static/media/running.a9310b5b.png",
+    "static/media/tennis.png": "/indograssabadi/static/media/tennis.66983f6e.png",
+    "static/media/tmobile.png": "/indograssabadi/static/media/tmobile.0959c39f.png",
+    "static/media/vision.jpg": "/indograssabadi/static/media/vision.7eb8cb47.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df0bbdbf.js",
+    "static/js/2.1a58fb73.chunk.js",
+    "static/css/main.b6c679a9.chunk.css",
+    "static/js/main.477c3b09.chunk.js"
+  ]
+}
