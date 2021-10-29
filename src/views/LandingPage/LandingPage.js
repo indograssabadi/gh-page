@@ -103,13 +103,19 @@ export default function LandingPage(props) {
       </Hidden>
 
       <Hidden mdUp>
-        <div className={classNames(classes.main, classes.smRaised)}>
+        <div className={classNames(classes.main, classes.topRaised)}>
           <div className={classes.container}>
             {/* <BlankSection /> */}
-            <SectionCarousel />
-            <VisionMissionSection />
+            <AboutSection />
+            {/* <VisionMissionSection /> */}
             {/* <ProjectSection /> */}
             {/* <BlankSection /> */}
+          </div>
+        </div>
+
+        <div className={classNames(classes.mainAlt, classes.topRaised)}>
+          <div className={classes.container}>
+            <SectionCarousel />
           </div>
         </div>
       </Hidden>

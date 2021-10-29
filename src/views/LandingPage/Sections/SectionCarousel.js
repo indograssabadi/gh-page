@@ -6,12 +6,13 @@ import classNames from "classnames";
 
 // @material-ui/core components
 import { makeStyles } from "@material-ui/core/styles";
+import Hidden from "@material-ui/core/Hidden";
+
 // @material-ui/icons
 // core components
 import GridContainer from "components/Grid/GridContainer.js";
 import GridItem from "components/Grid/GridItem.js";
 import Card from "components/Card/Card.js";
-
 import styles from "assets/jss/material-kit-react/views/componentsSections/carouselStyle.js";
 
 import football from "assets/img/services/tmobile.png";
@@ -87,11 +88,18 @@ export default function SectionCarousel(props) {
   return (
     <div className={classes.section}>
       <div className={classes.container}>
-        <h1 className={classes.title}>Jasa Kami</h1>
-        <h4 className={classes.description}>Pembuatan dan Perawatan</h4>
+        <Hidden lgDown>
+          <h1 className={classes.title}>Jasa Kami</h1>
+          <h4 className={classes.description}>Pembuatan dan Perawatan</h4>
+        </Hidden>
+
+        <Hidden xlUp>
+          <h2 className={classes.title}>Jasa Kami</h2>
+          <h5 className={classes.description}>Pembuatan dan Perawatan</h5>
+        </Hidden>
 
         <GridContainer>
-          <GridItem xs={12} sm={12} md={8} className={classes.marginAuto}>
+          <GridItem md={6} lg={6} xl={8} className={classes.marginAuto}>
             <Card carousel className={classes.imgCard}>
               <Slider {...settings}>{listImg}</Slider>
             </Card>
