@@ -26,7 +26,7 @@ import golf from "assets/img/services/golf.png";
 
 const useStyles = makeStyles(styles);
 
-export default function SectionCarousel(props) {
+export default function SectionCarousel() {
   const classes = useStyles();
   const settings = {
     dots: true,
@@ -72,8 +72,8 @@ export default function SectionCarousel(props) {
     },
   ];
 
-  const listImg = img.map((data) => (
-    <div>
+  const listImg = img.map((data, key) => (
+    <div key={key}>
       <img
         src={data.src}
         alt="First slide"

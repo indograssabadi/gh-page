@@ -30,7 +30,7 @@ export default function HeaderLinks(props) {
     <List className={classes.list}>
       
       <ListItem className={classes.listItem}>
-        <CustomDropdown
+        {/* <CustomDropdown
           noLiPadding
           buttonText="IHB Group"
           buttonProps={{
@@ -54,7 +54,7 @@ export default function HeaderLinks(props) {
             PT Puncakbaru Jayatama
           </a>,
           ]}
-        />
+        /> */}
       </ListItem>
       {/* <ListItem className={classes.listItem}>
         <Button

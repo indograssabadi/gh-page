@@ -21,11 +21,10 @@ import styles from "assets/jss/material-kit-react/views/landingPage.js";
 import Fade from "react-reveal/Fade";
 
 // Sections for this page
-import VisionMissionSection from "./Sections/VisionMissionSection.js";
-import AboutSection from "./Sections/AboutSection.js";
 import ProjectSection from "./Sections/ProjectSection.js";
-import ContactSection from "./Sections/ContactSection.js";
-import BlankSection from "./Sections/BlankSection.js";
+import AboutSection from "./Sections/AboutSection.js";
+// import ContactSection from "./Sections/ContactSection.js";
+// import BlankSection from "./Sections/BlankSection.js";
 import SectionCarousel from "./Sections/SectionCarousel.js";
 
 const dashboardRoutes = [];
@@ -98,6 +97,12 @@ export default function LandingPage(props) {
         <div className={classNames(classes.mainAlt, classes.topRaised)}>
           <div className={classes.container}>
             <SectionCarousel />
+          </div>
+        </div>
+
+        <div className={classNames(classes.main, classes.topRaised)}>
+          <div className={classes.container}>
+            <ProjectSection />
           </div>
         </div>
       </Hidden>
