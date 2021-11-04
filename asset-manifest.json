@@ -1,32 +1,35 @@
 {
   "files": {
     "main.css": "/gh-page/static/css/main.b6c679a9.chunk.css",
-    "main.js": "/gh-page/static/js/main.36acbe0b.chunk.js",
-    "main.js.map": "/gh-page/static/js/main.36acbe0b.chunk.js.map",
+    "main.js": "/gh-page/static/js/main.91752fe4.chunk.js",
+    "main.js.map": "/gh-page/static/js/main.91752fe4.chunk.js.map",
     "runtime-main.js": "/gh-page/static/js/runtime-main.fde267a7.js",
     "runtime-main.js.map": "/gh-page/static/js/runtime-main.fde267a7.js.map",
-    "static/js/2.d3afd189.chunk.js": "/gh-page/static/js/2.d3afd189.chunk.js",
-    "static/js/2.d3afd189.chunk.js.map": "/gh-page/static/js/2.d3afd189.chunk.js.map",
+    "static/js/2.5d2e1e53.chunk.js": "/gh-page/static/js/2.5d2e1e53.chunk.js",
+    "static/js/2.5d2e1e53.chunk.js.map": "/gh-page/static/js/2.5d2e1e53.chunk.js.map",
     "index.html": "/gh-page/index.html",
-    "precache-manifest.d3a22750d74cea6d5fd20822bc62b9e7.js": "/gh-page/precache-manifest.d3a22750d74cea6d5fd20822bc62b9e7.js",
+    "precache-manifest.d8aa4c0a3a00b8e89642e49e5204ec93.js": "/gh-page/precache-manifest.d8aa4c0a3a00b8e89642e49e5204ec93.js",
     "service-worker.js": "/gh-page/service-worker.js",
     "static/css/main.b6c679a9.chunk.css.map": "/gh-page/static/css/main.b6c679a9.chunk.css.map",
-    "static/js/2.d3afd189.chunk.js.LICENSE.txt": "/gh-page/static/js/2.d3afd189.chunk.js.LICENSE.txt",
+    "static/js/2.5d2e1e53.chunk.js.LICENSE.txt": "/gh-page/static/js/2.5d2e1e53.chunk.js.LICENSE.txt",
     "static/media/badm.png": "/gh-page/static/media/badm.2a095324.png",
     "static/media/baseball.png": "/gh-page/static/media/baseball.5ffe68db.png",
     "static/media/futsal.png": "/gh-page/static/media/futsal.57b4d515.png",
     "static/media/golf.png": "/gh-page/static/media/golf.6d52e55d.png",
+    "static/media/gos.jpeg": "/gh-page/static/media/gos.fcae1add.jpeg",
+    "static/media/indotan.jpeg": "/gh-page/static/media/indotan.dd0f5c04.jpeg",
     "static/media/land.jpg": "/gh-page/static/media/land.92933904.jpg",
     "static/media/minisoc.png": "/gh-page/static/media/minisoc.d0d72194.png",
+    "static/media/pm.jpeg": "/gh-page/static/media/pm.e9e10688.jpeg",
     "static/media/running.png": "/gh-page/static/media/running.a9310b5b.png",
+    "static/media/surya.jpeg": "/gh-page/static/media/surya.f90fca0f.jpeg",
     "static/media/tennis.png": "/gh-page/static/media/tennis.66983f6e.png",
-    "static/media/tmobile.png": "/gh-page/static/media/tmobile.0959c39f.png",
-    "static/media/vision.jpg": "/gh-page/static/media/vision.7eb8cb47.jpg"
+    "static/media/tmobile.png": "/gh-page/static/media/tmobile.0959c39f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fde267a7.js",
-    "static/js/2.d3afd189.chunk.js",
+    "static/js/2.5d2e1e53.chunk.js",
     "static/css/main.b6c679a9.chunk.css",
-    "static/js/main.36acbe0b.chunk.js"
+    "static/js/main.91752fe4.chunk.js"
   ]
 }
